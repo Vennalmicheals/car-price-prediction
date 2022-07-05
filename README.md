@@ -1,4 +1,4 @@
-# car-price-prediction
+# Car Price Prediction using Car Dheko Dataset
 
 In this project I'm trying to predict the Car price of an used car that is sold via Car Dheko Website
 
